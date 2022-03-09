@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studdent on **data science**
 - 👯 I'm looking to gain experience for the job market **projects**
-- 👨‍💻 All of my projects are available at [https://github.com/mauriciobedun](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/mauriciobedun)
 - 📫 How to reach me **mauriciobedun@hotmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauriciobedun/](https://www.linkedin.com/in/mauriciobedun/)
 
